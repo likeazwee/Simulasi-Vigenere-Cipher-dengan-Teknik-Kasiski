@@ -31,11 +31,13 @@ Aplikasi ini adalah alat bantu interaktif berbasis GUI (Tkinter) yang digunakan 
 ---
 ## 🖥️ Tampilan Antarmuka
 ### 🔐 Halaman Enkripsi Vigenère
-![Vigenère Encryption](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/Enkripsi.png)
+![Vigenère Encryption](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/GUI_App.png)
 ### 🔍 Halaman Analisis Kasiski
 ![Kasiski Analysis](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/Kasiski.png)
 ### 📊 Visualisasi Frequency Analysis
 ![Frequency Analysis](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/Frequency.png)
+### ❔Halaman Panduan
+![Halaman Panduan](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/GUI_Panduan.png)
 ---
 ### 📈 Hasil Rekonstruksi Kunci
 ![Key Reconstruction](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/Dekripsi.png)
