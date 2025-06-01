@@ -40,8 +40,7 @@ Aplikasi ini adalah alat bantu interaktif berbasis GUI (Tkinter) yang digunakan 
 ## ⚙️ Cara Menjalankan Aplikasi
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Feuriee/Vigenere-Cipher-Kasiski.git
-cd Vigenere-Cipher-Simulator
+git clone https://github.com/Feuriee/Simulasi-Vigenere-Cipher-dengan-Teknik-Kasiski.git
 ```
 ### 2. Install Dependencies (opsional)
 ```bash
