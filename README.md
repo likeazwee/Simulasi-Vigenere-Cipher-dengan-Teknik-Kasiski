@@ -1,6 +1,6 @@
 # 🚀 Simulasi Vigenere Cipher dengan Teknik Kasiski
 
-Aplikasi ini adalah alat bantu interaktif berbasis GUI (Tkinter) yang digunakan untuk mengenkripsi dan mendeskripsi plaintext dan ciphertext. Sistem ini menggunakan algoritma **Kasiski**.
+Aplikasi ini adalah alat bantu interaktif berbasis GUI (Tkinter) yang digunakan untuk mengenkripsi dan mendeskripsi plaintext dan ciphertext dengan metode Vignere Cipher. Sistem ini menggunakan algoritma **Kasiski**.
 
 ---
 
