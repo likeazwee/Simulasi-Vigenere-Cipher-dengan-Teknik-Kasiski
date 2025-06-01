@@ -33,7 +33,7 @@ Aplikasi ini adalah alat bantu interaktif berbasis GUI (Tkinter) yang digunakan 
 ### 🔐 Halaman Enkripsi Vigenère
 ![Vigenère Encryption](GUI_Panduan.png)
 ### 🔍 Halaman Analisis Kasiski
-![Kasiski Analysis](GUI_Analilis.png)
+![Kasiski Analysis](GUI_Analisis.png)
 ### ❔Halaman Panduan
 ![Halaman Panduan](GUI_Panduan.png)
 ---
