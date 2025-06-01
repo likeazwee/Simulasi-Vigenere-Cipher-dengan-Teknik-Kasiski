@@ -37,9 +37,6 @@ Aplikasi ini adalah alat bantu interaktif berbasis GUI (Tkinter) yang digunakan 
 ### ❔Halaman Panduan
 ![Halaman Panduan](GUI_Panduan.png)
 ---
-### 📈 Hasil Rekonstruksi Kunci
-![Key Reconstruction](https://github.com/Feuriee/Vigenere-Cipher-Kasiski/blob/main/Image%20Sample/Dekripsi.png)
----
 ## ⚙️ Cara Menjalankan Aplikasi
 ### 1. Clone Repository
 ```bash
