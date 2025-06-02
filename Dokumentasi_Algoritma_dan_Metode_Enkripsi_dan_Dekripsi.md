@@ -1,4 +1,4 @@
-z# Dokumentasi Kode Vigenère Cipher & Kasiski Examination Tool
+# Dokumentasi Kode Vigenère Cipher & Kasiski Examination Tool
 
 ## Ikhtisar
 Repositori ini berisi kode untuk aplikasi kriptografi yang mengimplementasikan cipher Vigenère dan metode analisis Kasiski Examination. Sistem ini menyediakan fitur enkripsi, dekripsi, dan analisis kriptografis untuk memecahkan cipher Vigenère tanpa mengetahui kunci.
